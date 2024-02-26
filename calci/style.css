@@ -1,0 +1,137 @@
+body{
+    background-color: black;
+
+}
+h1{
+    color: aliceblue;
+    font-size: 50px;
+    margin-bottom: 35px;
+    text-shadow: 2px 2px 0px #25a907;
+}
+.no{
+    width: 150px;
+    padding: 10px;
+    margin: 2px;
+   background-color: rgb(107, 219, 21);
+   font-weight: bold;
+   border-radius: 7px;
+}
+.no:hover{
+    background-color: rgb(84, 167, 21);
+}
+.operations:hover{
+    background-color: rgb(52, 49, 49);
+}
+#save-btn:hover{
+    background-color: rgb(52, 49, 49);
+}
+#zero{
+    width: 307px;
+    border-radius: 19px;
+}
+.main{
+    text-align: center;
+}
+.operations{
+    /* background-color: rgb(125, 17, 5);
+     */
+    border: 2px solid white;
+    background-color: black;
+    color: rgb(107, 219, 21);
+    font-weight: bold;
+    width: 140px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 7px;
+
+    /* text-shadow: 0 0 5px black; */
+
+}
+.inputNo{
+    /* text-decoration: underline; */
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    font-size: 60px;
+    margin-bottom: 25px;
+}
+.no1{
+    margin-right: 60px;
+
+}
+#save-btn{
+    background-color: black;
+    color: rgb(107, 219, 21);
+    width: 468px;
+    border-radius: 7px;
+    border: 2px solid white;
+    padding: 10px;
+    margin-top: 10px;
+}
+#result{
+    margin-top: 10px;
+    /* border: 2px solid white; */
+    color: white;
+    font-size: 40px;
+    margin-bottom: 100px;;
+}
+footer{
+    /* border: 2px solid white; */
+    height: 369px;
+    /* background-color: #3b0202; */
+    margin-bottom: 0;
+    /* border: 2px solid white; */
+    margin: 0;
+}
+.about{
+    /* border: 2px solid white; */
+    height: 300px;
+    background-color: rgb(83 180 9);
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+}
+.end{
+    background-color: black;
+    height: 70px;
+    border: 2px solid black;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+#aboutme{
+    /* text-align: center; */
+    padding-left: 20px;
+}
+.para{
+    margin-top: 35px;;
+}
+#Skills{
+    padding-right:120px;
+}
+#skills-heading{
+    padding-left: 20px;
+}
+#college{
+    padding-left: 80px;
+}
+img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    /* border: 2px solid red; */
+    padding: 5px;
+    margin: 5px;
+}
+#insta{
+    width: 54px;
+    /* margin-top: 20px; */
+    /* height: 55px; */
+}
+#claim{
+    color:white;
+}
+#num1p1{
+    background-color: rgb(52, 49, 49);
+}
